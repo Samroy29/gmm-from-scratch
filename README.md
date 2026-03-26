@@ -11,3 +11,5 @@ Easy to experiment with different numbers of clusters and temperature schedules 
 Purpose
 
 This project is intended for learning and demonstration of GMMs, EM optimization, and numerical techniques in probabilistic models. It focuses on the core ML algorithm, with all domain-specific or business logic removed.
+
+![GMM Cluster Plot](images/Figure_1.png)
